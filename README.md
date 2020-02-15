@@ -16,6 +16,6 @@ lxbot adapter for slack
 
 # NOTE
 
-Please create Slack app in https://api.slack.com/apps .  
-`OAuth & Permissions - Scopes` must set be `chat:write` and `users.profiles:read` .  
-`Subscribe to bot events` must set be `app_mention` and `message.channels` .
+- Create Slack app in https://api.slack.com/apps .  
+- `OAuth & Permissions - Scopes` must set be `chat:write` and `users.profiles:read` .  
+- `Subscribe to bot events` must set be `app_mention` and `message.channels` .
